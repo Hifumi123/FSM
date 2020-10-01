@@ -1,0 +1,11 @@
+D:\Work\Visual Studio\Repository\FSM\Life\bin\Debug\Life.exe.config
+D:\Work\Visual Studio\Repository\FSM\Life\bin\Debug\Life.exe
+D:\Work\Visual Studio\Repository\FSM\Life\bin\Debug\Life.pdb
+D:\Work\Visual Studio\Repository\FSM\Life\bin\Debug\FSM.dll
+D:\Work\Visual Studio\Repository\FSM\Life\bin\Debug\FSM.pdb
+D:\Work\Visual Studio\Repository\FSM\Life\bin\Debug\FSM.dll.config
+D:\Work\Visual Studio\Repository\FSM\Life\obj\Debug\Life.csprojAssemblyReference.cache
+D:\Work\Visual Studio\Repository\FSM\Life\obj\Debug\Life.csproj.CoreCompileInputs.cache
+D:\Work\Visual Studio\Repository\FSM\Life\obj\Debug\Life.csproj.CopyComplete
+D:\Work\Visual Studio\Repository\FSM\Life\obj\Debug\Life.exe
+D:\Work\Visual Studio\Repository\FSM\Life\obj\Debug\Life.pdb

@@ -1,0 +1,7 @@
+D:\Work\Visual Studio\Repository\FSM\FSM\bin\Debug\FSM.dll.config
+D:\Work\Visual Studio\Repository\FSM\FSM\bin\Debug\FSM.dll
+D:\Work\Visual Studio\Repository\FSM\FSM\bin\Debug\FSM.pdb
+D:\Work\Visual Studio\Repository\FSM\FSM\obj\Debug\FSM.csproj.CoreCompileInputs.cache
+D:\Work\Visual Studio\Repository\FSM\FSM\obj\Debug\FSM.dll
+D:\Work\Visual Studio\Repository\FSM\FSM\obj\Debug\FSM.pdb
+D:\Work\Visual Studio\Repository\FSM\FSM\obj\Debug\FSM.csprojAssemblyReference.cache
